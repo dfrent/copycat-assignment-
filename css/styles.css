@@ -22,9 +22,9 @@ h1.welcome {
     float: right;
 
 }
-.thing {
-    margin-left: 15%;
-    margin-right: 15%;
+.total {
+    margin-left: 8%;
+    margin-right: 8%;
 }
 .box.article {
     overflow: hidden;
@@ -55,4 +55,14 @@ h1.welcome {
     padding-top: 3em;
     padding-left: 1em;
     padding-right: 1em;
+}
+.okat {
+    border: 2px solid black;
+    display: inline-block;
+}
+img.ff {
+    max-width: 250px;
+}
+.okat {
+    margin: 3px;
 }
