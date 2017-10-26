@@ -93,3 +93,13 @@ span.meow {
     font-size: 30px;
     color: crimson;
 }
+.foot{
+    display: block;
+    background-color: turquoise;
+    color: white;
+    padding: 1em;
+    margin: 0;
+    text-align: right;
+    color: black;
+}
+  
