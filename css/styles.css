@@ -59,10 +59,37 @@ h1.welcome {
 .okat {
     border: 2px solid black;
     display: inline-block;
+    margin: 5px;
 }
 img.ff {
     max-width: 250px;
 }
-.okat {
-    margin: 3px;
+.box.bottom {
+    background-color: royalblue;
+    overflow: hidden;
+    margin: 0;
+    padding-bottom: 3em;
+    padding-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+h2.seprate {
+    display: block;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+span.fun {
+    float: left;
+    font-size: 30px;
+    color: crimson;
+}
+span.values {
+    font-size: 30px;
+    color: crimson;
+}
+span.meow {
+    float: right;
+    font-size: 30px;
+    color: crimson;
 }
