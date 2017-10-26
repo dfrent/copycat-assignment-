@@ -1,3 +1,58 @@
-h1 {
-color:turquoise
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
+}
+h3 {
+    display: block;
+    background-color: turquoise;
+    color: white;
+    padding: 1em;
+    margin: 0;
+}
+.anchors {
+    float: right;
+}
+.box.top {
+    background-color: royalblue;
+      margin: 0;
+}
+h1.welcome {
+    color: white;
+    float: right;
+
+}
+.thing {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.box.article {
+    overflow: hidden;
+    background-color: wheat;
+    margin: 0;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: left;
+}
+.welcome {text-align: center;
+}
+h1.welcome {
+    display: block;
+    padding-right: 4em;
+}
+.welcome {text-align: center;
+}
+h1.welcome {
+    display: block;
+    padding-right: 4em;
+}
+.box.pics {
+    background-color: lightgrey;
+    overflow: hidden;
+    padding-bottom: 3em;
+    padding-top: 3em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
